@@ -1,0 +1,12 @@
+header.dashboard-header {
+
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+
+}
+
+header.dashboard-header nav #header {
+  background-size: 50px 40px !important;
+  background-image: url("https://dev.simply-akara.com/c4825d5c816203cfd1a003ec85b9a829.png") !important;
+}
